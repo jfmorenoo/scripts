@@ -1,0 +1,6 @@
+var celsius= prompt("ingrese la cantidad de grados celsius");
+
+
+var f=((9/5)*celsius + 32);
+
+alert("la cantidad de grados farenheit es:"+f);

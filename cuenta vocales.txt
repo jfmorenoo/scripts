@@ -1,0 +1,10 @@
+
+frase = prompt("ingrese una frase");
+var b=0;
+for(var a=0; a<frase.length;a++)
+{
+if(frase[a]=='a' || frase[a]=='e' || frase[a]=='i' || frase[a]=='o' || frase[a]=='u')
+b++;
+} 
+alert("La frase ingresa da es: " + frase + " el numero de vocales en la frase es: " + b);
+

@@ -1,0 +1,24 @@
+rea del circulo 
+
+var circulo = prompt("ingrese el radio");
+
+var area=(3.1416*(circulo*circulo));
+
+alert("El area del circulo es:"+area);
+
+
+
+area del triangulo
+
+var base = prompt("ingrese la base");
+var altura = prompt("ingrese la altura");
+var area = (base*altura)/2;
+alert("el area del triangulo es:"+area);
+
+
+
+area del cuadrado:
+
+var lado = prompt("ingrese lado");
+var area = (lado*lado);
+alert("el area del cuadrado es:"+area);

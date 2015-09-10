@@ -1,0 +1,6 @@
+
+var peso= prompt("ingrese su peso");
+
+var pesol= peso *17/100;
+
+alert("su peso en la luna es:"+pesol);

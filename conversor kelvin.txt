@@ -1,0 +1,4 @@
+var cel= prompt("ingrese la cantidad de grados celsius");
+var kel=float;
+var kel=cel + 273;
+alert("la cantidad de grados kelvin es:");

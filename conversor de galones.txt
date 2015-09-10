@@ -1,0 +1,5 @@
+var galones= prompt("ingrese la cantidad de galones");
+
+var litros=(galones/3.7854); 
+
+document.write(litros);
